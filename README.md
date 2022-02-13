@@ -3,5 +3,6 @@ Sloth is a repository with all the automations I created to optimize my time.  M
 
 ### Current automations:  
 
-* Payment of internet bill [Emex](https://emexinternet.com.br) with credit card. 
-* Request a refund from QuintoAndar internet
+- [ ] Payment of internet bill [Emex](https://emexinternet.com.br) with credit card. 
+
+- [ ] Request an internet refund to QuintoAndar (For employees only)
